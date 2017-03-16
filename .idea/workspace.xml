@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f35e365-a630-441b-8918-4af5335db382" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/usedcjm/useaes.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/texts/zhengqige" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.go" afterPath="$PROJECT_DIR$/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multi/multifuns.go" afterPath="$PROJECT_DIR$/src/multi/multifuns.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/usedcjm/usebase64.go" afterPath="$PROJECT_DIR$/src/usedcjm/usebase64.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/usehttp/usehttp.go" afterPath="$PROJECT_DIR$/src/usehttp/usehttp.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/texts/axsais.txt" afterPath="$PROJECT_DIR$/texts/foraes.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="usehttp.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="usehttp.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/usehttp/usehttp.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
@@ -59,6 +52,16 @@
               <folding>
                 <element signature="e#17#127#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -850,7 +853,7 @@
       <workItem from="1489453920648" duration="22032000" />
       <workItem from="1489491677654" duration="8033000" />
       <workItem from="1489539683035" duration="16964000" />
-      <workItem from="1489627187741" duration="11898000" />
+      <workItem from="1489627187741" duration="12381000" />
     </task>
     <task id="LOCAL-00001" summary="到第九章了&#10;">
       <created>1489641408560</created>
@@ -859,7 +862,14 @@
       <option name="project" value="LOCAL" />
       <updated>1489641408560</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="加密解密结束">
+      <created>1489646657863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489646657863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -883,7 +893,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125577000" />
+    <option name="totallyTimeSpent" value="126060000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -907,7 +917,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32605043" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.67731094" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.67731094" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3764706" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -968,7 +978,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="到第九章了&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="到第九章了&#10;" />
+    <MESSAGE value="加密解密结束" />
+    <option name="LAST_COMMIT_MESSAGE" value="加密解密结束" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -988,13 +999,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/texts/goxml.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/xmluse/exportxml.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -1378,6 +1382,14 @@
           <folding>
             <element signature="e#17#127#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
