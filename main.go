@@ -1,9 +1,9 @@
 package main
 
 import (
-	"userpchttpclient"
+	"usejiami"
 )
 
 func main() {
-	rpcclient.Use_rpc_client()
+	usejiami.Use_three_jiami()
 }
