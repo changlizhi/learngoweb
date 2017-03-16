@@ -460,7 +460,7 @@ func postFile(filename string, targetUrl string) error {
 func usePost() {
 	//模拟客户端请求
 	target_url := "http://localhost:9090/upload"
-	fileName := "texts/axsais.txt"
+	fileName := "texts/foraes.txt"
 	postFile(fileName, target_url)
 }
 

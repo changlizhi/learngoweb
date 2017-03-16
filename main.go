@@ -1,9 +1,9 @@
 package main
 
 import (
-	"usejiami"
+	"usehttp"
 )
 
 func main() {
-	usejiami.Use_three_jiami()
+	usehttp.Map_zqg()
 }
