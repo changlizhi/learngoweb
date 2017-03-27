@@ -1,11 +1,11 @@
 package usejiami
 
 import (
-	"crypto/sha256"
-	"io"
-	"fmt"
-	"crypto/sha1"
 	"crypto/md5"
+	"crypto/sha1"
+	"crypto/sha256"
+	"fmt"
+	"io"
 )
 
 func Use_three_jiami() {

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"usehttp"
+	"usegdb"
 )
 
 func main() {
-	usehttp.Map_zqg()
+	usegdb.Use_counting()
 }
