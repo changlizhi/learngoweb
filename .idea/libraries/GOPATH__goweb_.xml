@@ -1,15 +1,21 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;goweb&gt;">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../gopath/src/github.com" />
-      <root url="file://$PROJECT_DIR$/../../gopath/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../gopath/src/usebeee" />
       <root url="file://$PROJECT_DIR$/../../gopath/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../gopath/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../gopath/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../gopath/src/mybeeapi" />
+      <root url="file://$PROJECT_DIR$/../../gopath/src/myrpcapp" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="file://$PROJECT_DIR$/../../gopath/src/github.com" />
-      <root url="file://$PROJECT_DIR$/../../gopath/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../gopath/src/usebeee" />
       <root url="file://$PROJECT_DIR$/../../gopath/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../gopath/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../gopath/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../gopath/src/mybeeapi" />
+      <root url="file://$PROJECT_DIR$/../../gopath/src/myrpcapp" />
     </SOURCES>
     <excluded>
       <root url="file://$PROJECT_DIR$" />

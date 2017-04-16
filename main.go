@@ -1,9 +1,9 @@
 package main
 
 import (
-	"usegdb"
+	"httpclient"
 )
 
 func main() {
-	usegdb.Use_counting()
+	httpclient.My_Http_Do()
 }

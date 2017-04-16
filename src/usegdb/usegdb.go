@@ -8,7 +8,7 @@ import (
 //go build -gcflags "-N -l" -ldflags "-s" gdbfile.go
 //gdb gdbfile
 
-func couting(c chan <- int) {
+func couting(c chan<- int) {
 	for i := 0; i < 10; i++ {
 		time.Sleep(1 * time.Second)
 		c <- i
